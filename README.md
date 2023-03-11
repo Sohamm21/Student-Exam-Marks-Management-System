@@ -9,3 +9,10 @@ You can now use this Student Exam Marks Management System project to manage stud
 - After doing the above steps open the XAMPP control panel and start the Apache and MySQL servers
 - After starting the servers open browser and type 'localhost/StudentMarks/' in the search bar
 ```
+
+### Images of the implementation:
+
+![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
+![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
+![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
+![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
