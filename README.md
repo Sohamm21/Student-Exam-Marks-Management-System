@@ -12,7 +12,8 @@ You can now use this Student Exam Marks Management System project to manage stud
 
 ### Images of the implementation:
 
-![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
-![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
-![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
-![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
+![Edit Screen](https://github.com/Sohamm21/Student-Exam-Marks-Management-System/blob/main/Screenshot%20(199).png)
+![View Screen](https://github.com/Sohamm21/Student-Exam-Marks-Management-System/blob/main/Screenshot%20(200).png)
+![Index Screen](https://github.com/Sohamm21/Student-Exam-Marks-Management-System/blob/main/Screenshot%20(201).png)
+![Add Screen](https://github.com/Sohamm21/Student-Exam-Marks-Management-System/blob/main/Screenshot%20(202).png)
+
